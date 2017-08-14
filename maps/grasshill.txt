@@ -1,0 +1,12 @@
+sprites/bg/debug.png
+0 0 0 64 64 sprites/block.bmp
+0 100 100 64 128 sprites/block.bmp
+//1 300 300 25 25 ssdfsdfsf
+//2 1000 1000 0 0 s
+0 1064 1064 64 64 sprites/block.bmp
+0 936 872 64 128 sprites/block.bmp
+0 300 400 64 90 sprites/block.bmp
+0 600 500 64 320 sprites/block.bmp
+0 0 400 128 64 sprites/block.bmp
+0 0 529 128 64 sprites/block.bmp
+//3 0 464 0 0 0
